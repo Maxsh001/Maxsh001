@@ -33,7 +33,7 @@
 ##### Minecraft
 [![PCL2CE](https://img.shields.io/badge/Plain_Craft_Launcher_Community_Edition-2.12.3-116FCD)](https://ce.pclc.cc/)
 [![Simply Optimized](https://img.shields.io/badge/Simply_Optimized-1.21.8--1.0.1-000308)](https://modrinth.com/modpack/sop)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.101-52A535)](https://www.minecraft.net/about-minecraft)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.101-3A971E)](https://www.minecraft.net/about-minecraft)
 [![Minecraft Dungeons](https://img.shields.io/badge/Minecraft_Dungeons-1.17.0.0-FF791A)](https://www.minecraft.net/about-dungeons)
 
 ![ᑕᖇEEᑭYᑕᖇEEᑭEᖇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxsh001&show_icons=true&theme=transparent)

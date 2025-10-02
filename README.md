@@ -23,9 +23,9 @@
 [![Dragonwell](https://img.shields.io/badge/Dragonwell-8.0.452_|_11.0.27-F44437)](https://dragonwell-jdk.io/)
 [![TeaVM](https://img.shields.io/badge/TeaVM-0.12.1-4582EC)](https://teavm.org/)
 [![CheerpJ](https://img.shields.io/badge/CheerpJ-4.2-FF7C00)](https://cheerpj.com/)
+[![npm](https://img.shields.io/badge/npm-10.9.3-CB3837?logo=npm)](https://www.npmjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-22.18.0-5FA04E?logo=nodedotjs)](https://nodejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?logo=vite)](https://vite.dev/)
-[![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react)](https://react.dev/)
 [![clang-mc](https://img.shields.io/badge/clang--mc-0.1.0-262D3A?logo=llvm)](https://github.com/xia-mc/clang-mc)
 ##### Languages
 [![Java](https://img.shields.io/badge/Java-21-B07219)](https://www.java.com/)

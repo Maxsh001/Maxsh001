@@ -36,6 +36,7 @@
 [![Typescript](https://img.shields.io/badge/Typescript-5.9.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 ##### Minecraft
 [![PCL2CE](https://img.shields.io/badge/Plain_Craft_Launcher_Community_Edition-2.13.3-116FCD)](https://ce.pclc.cc/)
+[![FCL](https://img.shields.io/badge/Fold_Craft_Launcher-1.2.5.9-7798CE)](https://github.com/FCL-Team/FoldCraftLauncher)
 [![Simply Optimized](https://img.shields.io/badge/Simply_Optimized-1.21.8--1.0.1-000308)](https://modrinth.com/modpack/sop)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.113-3A971E)](https://www.minecraft.net/about-minecraft)
 [![EaglercraftX](https://img.shields.io/badge/EaglercraftX-1.8_u53_|_1.12_u2-3A2A1A)](https://eaglercraft.com/)

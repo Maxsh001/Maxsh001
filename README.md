@@ -1,4 +1,4 @@
-## Hi there👋, I'm ᑕᖇEEᑭYᑕᖇEEᑭEᖇ
+## Hi there👋, I'm ₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ
 
 ##### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows_11-_25H2-001968)](https://www.microsoft.com/windows/)
@@ -11,8 +11,8 @@
 [![H2](https://img.shields.io/badge/H2-2.4.240-09476B?logo=h2database)](https://h2database.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-3.50.4-003B57?logo=sqlite)](https://www.sqlite.org/)
 ##### IDEs
-[![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-2025.2.4-000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.106.0-0078D4)](https://code.visualstudio.com/)
+[![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-2025.2.5-000000?logo=intellijidea)](https://www.jetbrains.com/idea/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1.106.2-0078D4)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-17.14.15-0078D4)](https://visualstudio.microsoft.com/)
 ##### Toolchains
 [![UniFFI](https://img.shields.io/badge/UniFFI-0.29.4-161616?logo=mozilla)](http://mozilla.github.io/uniffi-rs/)
@@ -42,6 +42,6 @@
 [![EaglercraftX](https://img.shields.io/badge/EaglercraftX-1.8_u53_|_1.12_u2-3A2A1A)](https://eaglercraft.com/)
 [![Minecraft Dungeons](https://img.shields.io/badge/Minecraft_Dungeons-1.17.0.0-FF791A)](https://www.minecraft.net/about-dungeons)
 
-![ᑕᖇEEᑭYᑕᖇEEᑭEᖇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxsh001&show_icons=true&theme=transparent)
+![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TransparentWhit&show_icons=true&theme=transparent)
 
-![ᑕᖇEEᑭYᑕᖇEEᑭEᖇ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsh001&layout=compact)
+![₮Ɽ₳₦₴₱₳ⱤɆ₦₮_₩Ⱨł₮Ɇ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TransparentWhit&layout=compact)
